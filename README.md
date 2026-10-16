@@ -1,5 +1,5 @@
-# Tugas Praktikum 3 DPBO — Java Swing GUI
-
+# TP5 DPBO 2025/2026 - Aplikasi CRUD Mahasiswa Java Swing & MySQL
+--- 
 ## Janji
 
 Saya Afit Fajar Rianto dengan NIM 2501826 mengerjakan Tugas Praktikum 4 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
