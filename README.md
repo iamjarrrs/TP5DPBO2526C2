@@ -84,5 +84,6 @@ Aplikasi ini menangani berbagai skenario kesalahan untuk memastikan integritas d
 ---
 
 # Dokumentasi Program
-Penjelasan dan Demo Program dapat diakses melalu link YouTube berikut:
-[![YouTube Video Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lzSAG2RNLLU)
+Penjelasan dan Demo Program dapat diakses melalui tautan di bawah ini:
+
+[![YouTube Video Demo](https://img.shields.io/badge/Tonton%20Demo%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lzSAG2RNLLU)
