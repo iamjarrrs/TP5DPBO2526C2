@@ -10,12 +10,8 @@ Saya Afit Fajar Rianto dengan NIM 2501826 mengerjakan Tugas Praktikum 4 pada Mat
 TP5DPBO2526C2/
 │
 ├── .git/
-├── src/
-│   ├── Database.java
-│   ├── Person.java
-│   └── PeopleMenu/
-│       ├── PeopleMenu.java
-│       └── PeopleMenu.form
+├── Database/
+│   └── db_akademik.sql
 │
 ├── Dokumentasi/
 │   ├── crud_insert.png
@@ -24,10 +20,16 @@ TP5DPBO2526C2/
 │   ├── error_field_kosong.png
 │   └── error_duplicate_nim.png
 │
+├── Source Code/
+│   └── src/
+│       ├── Database.java
+│       ├── Person.java
+│       ├── PeopleMenu.java
+│       └── PeopleMenu.form
+│
 ├── lib/
 │   └── mysql-connector-j-26.7.0.jar
 │
-├── TP5DPBO.iml
 └── README.md
 ```
 ---
@@ -81,4 +83,6 @@ Aplikasi ini menangani berbagai skenario kesalahan untuk memastikan integritas d
 
 ---
 
-# Dokumentasi & Demo Program
+# Dokumentasi Program
+Penjelasan dan Demo Program dapat diakses melalu link YouTube berikut:
+[![YouTube Video Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lzSAG2RNLLU)
